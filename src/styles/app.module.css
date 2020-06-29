@@ -1,0 +1,28 @@
+.container-fluid {
+  width: 1200px;
+  align-items: flex-start;
+  padding: 20px;
+  display: flex;
+}
+
+.flexible {
+  display: flex;
+  align-items: flex-start;
+}
+
+.printing-search-result {
+  display: flex;
+  flex-direction: column;
+}
+
+.printing-name {
+  font-weight: bold;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.font-warning {
+  color: #ff4d4f;
+}
