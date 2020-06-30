@@ -26,3 +26,7 @@
 .font-warning {
   color: #ff4d4f;
 }
+
+.resolve-white-space {
+  white-space: pre-line;
+}
